@@ -1,0 +1,21 @@
+h1{  
+    height: 100px;
+    line-height: 60px;
+    margin: 10px;
+    font-family: 'Dancing Script', cursive;
+    font-style: italic;
+    text-align: center;
+    color: aliceblue;
+    font-size: 49pt;
+}
+
+header{
+    height: 100px;
+    background-color: #f7b1bf;
+}
+#osito{
+    color: #3e3536;
+}
+#chato{
+    text-align: center;
+}
