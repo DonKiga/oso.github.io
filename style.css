@@ -20,3 +20,25 @@ header{
 #chato{
     text-align: center;
 }
+.barrarosita{
+     accent-color :#f7b1bf;
+}
+.iconos{
+    color: rgb(0, 0, 0);
+}
+div.entrada{
+    text-align: center;
+    margin: 0px 30%;
+    border: 1px solid;
+    border-color: rgb(49, 40, 40);
+    border-radius: 20px;/*Redondea las esquinas*/
+    background-color: antiquewhite;
+}
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/016/330/187/non_2x/realistic-peach-blossom-background-free-vector.jpg);
+    background-size: 100%;
+    margin: 0;
+}
+p{
+    background-color: aliceblue;
+}
